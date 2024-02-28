@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.task-form {
+  margin-bottom: 20px;
+}
+
+.task-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task-list li {
+  margin-bottom: 10px;
+}
+
+.task-list button {
+  margin-left: 10px;
+}
